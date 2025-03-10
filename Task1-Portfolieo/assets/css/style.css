@@ -1,0 +1,22 @@
+/* Bütün səhifəyə xüsusi font və rəng vermək */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+}
+
+/* Header stilini fərdiləşdirmək */
+header {
+    background-color: #007bff;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Layihə kartlarına effekt vermək */
+.project-card {
+    transition: transform 0.3s ease-in-out;
+}
+
+.project-card:hover {
+    transform: scale(1.05);
+}

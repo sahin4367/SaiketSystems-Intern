@@ -1,0 +1,12 @@
+Task 5: Database Integration
+Learn the basics of SQL and connect your
+REST API to a database like MySQL or
+PostgreSQL. Use the database to store and
+retrieve user data, such as name, email,
+and age, by integrating SQL queries with
+your API endpoints.
+Skills :
+Basic SQL
+Database Connection
+API Integration
+Express Basics

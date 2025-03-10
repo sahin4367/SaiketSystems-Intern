@@ -1,0 +1,14 @@
+Task 4: Build a Basic REST API
+Description:
+Learn the basics of Node.js and Express to
+build a REST API. Create endpoints for CRUD
+operations on a "User" entity with fields like
+name, email, and age. Test the functionality
+of your API using Postman.
+Skills: -
+Node.js Basics
+REST API Design
+Express Framework
+JSON Handling
+Postman Testing
+

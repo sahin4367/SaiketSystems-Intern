@@ -1,0 +1,22 @@
+Task 6: Full Stack Application - Summary
+In this task, I built a User Management System using full stack development concepts. I combined both frontend and backend to create a web application where users can add, view, update, and delete their profiles. Here’s a brief overview of what I did:
+
+Backend (Node.js & Express)
+
+Developed an API to handle CRUD operations (Create, Read, Update, Delete).
+Connected the backend to a MongoDB database for storing user information.
+Frontend (React.js)
+
+Created a user interface to interact with the backend.
+Used forms to add and update user data.
+Displayed user information in a table format with options to edit or delete.
+Database (MongoDB)
+
+Stored and managed user data in a MongoDB database.
+Connecting Frontend and Backend
+
+Made HTTP requests from the React frontend to the Node.js backend using fetch or axios.
+Ensured real-time updates on the frontend when user data is added, updated, or deleted.
+Optional Feature (if included)
+
+Implemented basic login authentication for additional security.
